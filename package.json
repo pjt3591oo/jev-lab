@@ -1,0 +1,21 @@
+{
+  "name": "jev-lab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://pjt3591oo.github.io/jev-lab",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build && node scripts/standalone.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test src/payload.test.js"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "7.1.7"
+  }
+}
