@@ -2,6 +2,8 @@
 
 React 19 + Vite로 만든 Jev System One API 테스트 페이지입니다.
 
+[데모](https://pjt3591oo.github.io/jev-lab/jev-lab.html)
+
 ## 실행
 
 Node.js 20.19+ 또는 22.12+가 필요합니다.
